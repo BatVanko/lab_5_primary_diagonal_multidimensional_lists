@@ -1,0 +1,1 @@
+# lab_5_primary_diagonal_multidimensional_lists
